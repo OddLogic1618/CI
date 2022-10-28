@@ -1,0 +1,1 @@
+root_zone :: [[Entrance of Cave]]

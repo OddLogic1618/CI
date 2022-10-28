@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "28f525250b4cf044",
+    "type": "split",
+    "children": [
+      {
+        "id": "b74f309320c3dd03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80766e8ad6e887bb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Viridis-img.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "286a2e51faf8b303",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f1ba95c9a7419a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97398e3f14bcb344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5f83244f2a99c92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb567f5bbcbb451d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11a6c9018b5851e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b357c11662876db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2659d3d8112d6abc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Viridis-img.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d18c641f3a144f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Viridis-img.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfff66fcbceeed18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "beb3751f326f835c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Viridis-img.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "80766e8ad6e887bb",
+  "lastOpenFiles": [
+    "Cape Peril-img.md",
+    "Viridis-img.md",
+    "Black Forest-img.md",
+    "Goblin Territory-img.md",
+    "Orc Territory-img.md",
+    "Viridis-img.svg",
+    "Scripts/Draw maps.md",
+    "Mobs/Walrus.md",
+    "Mobs/Bull Walrus.md",
+    "Mobs/Warf Rat.md"
+  ]
+}

@@ -1,0 +1,1 @@
+root_zone :: [[A Small Trail in Forest]]
